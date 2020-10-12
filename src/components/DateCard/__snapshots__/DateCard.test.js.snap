@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render the Button correctly 1`] = `
+<button
+  className="sc-bdVaJa cHdtTr"
+/>
+`;
+
+exports[`should render the Button with the attribute primary 1`] = `
+<button
+  className="sc-bdVaJa kzCDOL"
+/>
+`;
